@@ -77,9 +77,24 @@ Oke: Menyimpan pengaturan waktu alarm dan kembali ke halaman sebelumnya.
 
 Fitur ini dirancang untuk mempermudah pengguna dalam mengatur alarm sesuai kebutuhan mereka.
 
-### 3. SETTING ALARM
+### 3. notification  ALARM
 <img src="png dan pdf/notifikasi2.jpeg">
 Notifikasi alarm adalah sebuah pemberitahuan yang digunakan untuk mengingatkan atau memberi tahu pengguna tentang suatu peristiwa yang telah dijadwalkan sebelumnya. Alarm biasanya memiliki fitur tambahan seperti suara, getaran, atau pesan visual untuk memastikan perhatian pengguna tertarik.
+
+## cara menggunakan aplikasi
+
+1. Buka Aplikasi Alarm
+2. Tambahkan Alarm Baru
+3. Atur Waktu Alarm
+4. Sesuaikan Pengaturan Alarm
+5. Simpan Alarm
+6. Pastikan Alarm Aktif
+
+
+---
+
+   
+
 
 
 
