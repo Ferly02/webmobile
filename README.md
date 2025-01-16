@@ -60,7 +60,8 @@ Fitur canggih seperti pelacakan tidur pada alarm pintar membantu pengguna memaha
 Tujuan utama halaman ini adalah membantu pengguna memulai dengan cepat dan memberikan kesan pertama yang bersih serta ramah pengguna.
 
 
-
+### 2. SETTING ALARM
+<img src="png dan pdf/setting alarm.jpeg" alt="Android Logo" width="250" height="500">
 Bagian atas:
 Menampilkan opsi jam dan menit dalam format digital. Pengguna dapat mengetuk angka untuk menyesuaikan jam atau menit secara langsung.
 Bagian lingkaran:
@@ -73,6 +74,7 @@ Tombol Batal dan Oke:
 
 Batal: Membatalkan pengaturan alarm tanpa menyimpan perubahan.
 Oke: Menyimpan pengaturan waktu alarm dan kembali ke halaman sebelumnya.
+
 Fitur ini dirancang untuk mempermudah pengguna dalam mengatur alarm sesuai kebutuhan mereka.
 
 
