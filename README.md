@@ -49,11 +49,17 @@ Fitur canggih seperti pelacakan tidur pada alarm pintar membantu pengguna memaha
 
 <img src="png dan pdf/UI & UX.jpg" alt="Android Logo" width="400" height="500">
 
+
+
 ## Fitur Utama Aplikasi :
 
-### 1. Beranda
+### 1. HALAMAN UTAMA
 
    <img src="png dan pdf/halaman utama.jpeg" alt="Android Logo" width="250" height="500">
+   Halaman awal aplikasi alarm ini dirancang untuk memberikan pengalaman yang sederhana dan intuitif. Di sini, pengguna dapat dengan mudah memilih waktu alarm yang diinginkan dengan mengetuk tombol "Select Time". Setelah itu, pengguna dapat menekan tombol "Set Alarm" untuk mengatur pengingat atau tombol "Cancel Alarm" untuk membatalkan alarm yang sudah diatur.
+Tujuan utama halaman ini adalah membantu pengguna memulai dengan cepat dan memberikan kesan pertama yang bersih serta ramah pengguna.
+
+
 
 
 
