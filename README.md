@@ -78,7 +78,7 @@ Oke: Menyimpan pengaturan waktu alarm dan kembali ke halaman sebelumnya.
 Fitur ini dirancang untuk mempermudah pengguna dalam mengatur alarm sesuai kebutuhan mereka.
 
 ### 3. SETTING ALARM
-<img src="" alt="Android Logo" width="250" height="500">
+<img src="png dan pdf/notifikasi2.jpeg" alt="Android Logo" width="250" height="500">
 Notifikasi alarm adalah sebuah pemberitahuan yang digunakan untuk mengingatkan atau memberi tahu pengguna tentang suatu peristiwa yang telah dijadwalkan sebelumnya. Alarm biasanya memiliki fitur tambahan seperti suara, getaran, atau pesan visual untuk memastikan perhatian pengguna tertarik.
 
 
