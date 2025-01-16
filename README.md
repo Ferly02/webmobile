@@ -43,7 +43,7 @@ Fitur canggih seperti pelacakan tidur pada alarm pintar membantu pengguna memaha
 
 ## MockUp
 
-![alt text](MockUp_AplikasiPrintEase.png)
+<img src="">
 
 ## UI UX
 
