@@ -43,7 +43,7 @@ Fitur canggih seperti pelacakan tidur pada alarm pintar membantu pengguna memaha
 
 ## MockUp
 
-<img src="">
+<img src="png dan pdf/mockup.jpg">
 
 ## UI UX
 
