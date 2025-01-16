@@ -39,7 +39,7 @@ Fitur canggih seperti pelacakan tidur pada alarm pintar membantu pengguna memaha
 
 ## StoryBoard
 
-![alt text](StoryBoard_AplikasiPrintEase.png)
+![alt text](png dan pdf/storyboard.jpg)
 
 ## MockUp
 
