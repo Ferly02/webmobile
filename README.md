@@ -47,7 +47,7 @@ Fitur canggih seperti pelacakan tidur pada alarm pintar membantu pengguna memaha
 
 ## UI UX
 
-<img src="assets/cover_ui.png" alt="Android Logo" width="400" height="500">
+<img src="png dan pdf/UI & UX.jpg" alt="Android Logo" width="400" height="500">
 
-![alt text](assets/UI&UX.png)
+
 
