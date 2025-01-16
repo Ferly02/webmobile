@@ -61,5 +61,21 @@ Tujuan utama halaman ini adalah membantu pengguna memulai dengan cepat dan membe
 
 
 
+Bagian atas:
+Menampilkan opsi jam dan menit dalam format digital. Pengguna dapat mengetuk angka untuk menyesuaikan jam atau menit secara langsung.
+Bagian lingkaran:
+
+Memiliki tampilan jam berbentuk analog, di mana pengguna bisa menyeret jarum ke angka tertentu untuk memilih menit.
+AM/PM:
+
+Pengguna dapat memilih format waktu pagi (AM) atau sore/malam (PM).
+Tombol Batal dan Oke:
+
+Batal: Membatalkan pengaturan alarm tanpa menyimpan perubahan.
+Oke: Menyimpan pengaturan waktu alarm dan kembali ke halaman sebelumnya.
+Fitur ini dirancang untuk mempermudah pengguna dalam mengatur alarm sesuai kebutuhan mereka.
+
+
+
 
 
