@@ -36,3 +36,18 @@ Aplikasi modern menawarkan fitur seperti suara alam atau alarm cahaya untuk bang
 5. Penggunaan untuk Tujuan Khusus
 Membantu orang dengan kebutuhan khusus, misalnya alarm dengan getaran kuat atau suara keras untuk orang dengan gangguan pendengaran.
 Fitur canggih seperti pelacakan tidur pada alarm pintar membantu pengguna memahami pola tidur mereka.
+
+## StoryBoard
+
+![alt text](StoryBoard_AplikasiPrintEase.png)
+
+## MockUp
+
+![alt text](MockUp_AplikasiPrintEase.png)
+
+## UI UX
+
+<img src="assets/cover_ui.png" alt="Android Logo" width="400" height="500">
+
+![alt text](assets/UI&UX.png)
+
