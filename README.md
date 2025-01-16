@@ -53,7 +53,7 @@ Fitur canggih seperti pelacakan tidur pada alarm pintar membantu pengguna memaha
 
 ### 1. Beranda
 
-   <img src="assets/beranda.jpg" alt="Android Logo" width="250" height="500">
+   <img src="png dan pdf/halaman utama.jpeg" alt="Android Logo" width="250" height="500">
 
 
 
